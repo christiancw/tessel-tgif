@@ -1,0 +1,16 @@
+{
+  "name": "tessel-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tessel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ambient-attx4": "^0.2.11",
+    "express": "^4.15.2",
+    "tessel-av": "^0.16.4"
+  }
+}
